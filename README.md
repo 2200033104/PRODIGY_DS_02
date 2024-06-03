@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 # PRODIGY_DS_02
  
 **1 Performing data cleaning and exploratory data analysis on titanic dataset.**
